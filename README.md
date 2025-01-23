@@ -17,7 +17,8 @@ A distributed hash chain implementation with a web-based interface for managing 
    - Data distribution logic
    - Consistent hashing implementation
 
-2. **app.py**: Flask web server
+2. **app.py**:
+   Flask web server
    - RESTful API endpoints
    - Server-side logic
    - Integration with hash chain system
